@@ -2,7 +2,7 @@
   "name": "easy-cli",
   "version": "0.1.0",
   "bin": {
-    "easy-cli": "./bin/cli.js"
+    "joer-cli": "./bin/cli.js"
   },
   "main": "index.js",
   "license": "MIT",
