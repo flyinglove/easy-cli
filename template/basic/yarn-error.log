@@ -1,0 +1,41 @@
+Arguments: 
+  /Users/joer/.nvm/versions/node/v10.13.0/bin/node /Users/joer/.yarn/bin/yarn.js add -D weabpack webpack-cli@3
+
+PATH: 
+  /Users/joer/.yarn/bin:/Users/joer/.config/yarn/global/node_modules/.bin:/Users/joer/development/flutter/bin:/Users/joer/.nvm/versions/node/v10.13.0/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/joer/.yarn/bin:/Users/joer/.config/yarn/global/node_modules/.bin:/Users/joer/development/flutter/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/Applications/SWI-Prolog.app/Contents/swipl/bin:/usr/local/mysql/bin:/usr/local/mysql/support-files:/Applications/SWI-Prolog.app/Contents/swipl/bin:/usr/local/mysql/bin:/usr/local/mysql/support-files
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  10.13.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.npm.taobao.org/weabpack: Not found
+      at Request.params.callback [as _callback] (/Users/joer/.yarn/lib/cli.js:66988:18)
+      at Request.self.callback (/Users/joer/.yarn/lib/cli.js:140749:22)
+      at Request.emit (events.js:182:13)
+      at Request.<anonymous> (/Users/joer/.yarn/lib/cli.js:141721:10)
+      at Request.emit (events.js:182:13)
+      at IncomingMessage.<anonymous> (/Users/joer/.yarn/lib/cli.js:141643:12)
+      at Object.onceWrapper (events.js:273:13)
+      at IncomingMessage.emit (events.js:187:15)
+      at endReadableNT (_stream_readable.js:1094:12)
+      at process._tickCallback (internal/process/next_tick.js:63:19)
+
+npm manifest: 
+  {
+    "name": "basic",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
