@@ -1,5 +1,5 @@
 {
-  "name": "easy-cli",
+  "name": "joer-cli",
   "version": "0.1.0",
   "bin": {
     "joer-cli": "./bin/cli.js"
